@@ -546,4 +546,26 @@ Hl : Link Header, 링크 계층 헤더
 - ITU-T(International Telecommunication Union-Telecommunication)
   - UN 산하의 공식 정부 간 기구인 법적(de jure) 표준 단체
   - 네트워크, 광통신, 멀티미디어, 보안, 사물인터넷 등 국제 표준 개발
-  - 
+- 3GPP(3rd Generation Partnership Project)
+  - 전세계 이동통신 표준을 개발하는 글로벌 연합체
+  - 5G/6G 기술 개발
+- W3C(World Wide Web Consortium)
+  - 웹 기술 표준 개발 및 유지 보수
+  - HTML(Hype Text Markup Language), CSS(Cascading Style Sheets), WebRTC(Web Real-Time Communication)
+ 
+### 요약
+- 인터넷 개요
+  - 구성요소 관점(Hosts, Links, Switches) & 서비스 관점(Sockets)
+- 프로토콜
+  - 메시지 포맷, 순서, 행동을 정의하는 통신 약속
+- 접속망 & 데이터통신
+  - DSL, HFC, FTTH(XGS-PON), LAN, 라인코딩, 변조(QAM)
+- 네트워크 코어
+  - 패킷 교환(Store-and-Forward, 통계적 다중화)
+- 성능 지표
+  - 4대 지연, 패킷 손실, 병목 링크 처리율
+- 계층화
+  - 인터넷 5계층 스택(Application, Transport, Network, Link, Physical) & 캡슐화
+
+##### ✍️ 작성자: 박지안
+##### 🗓️ 작업일: 2026-10-09
